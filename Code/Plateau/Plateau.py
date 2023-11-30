@@ -82,7 +82,7 @@ class Plateau:
                         {
                             "type": self.matCases[row][col].piece.type,
                             "couleur": self.matCases[row][col].piece.couleur,
-                            "emplacement": Pos(row + 1, col + 1).get_emplacement,
+                            "emplacement": Pos(row + 1, col + 1).get_emplacement(),
                         }
                     )
         return piecesSurPableau

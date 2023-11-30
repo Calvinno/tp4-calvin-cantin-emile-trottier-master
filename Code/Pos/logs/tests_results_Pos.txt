@@ -1,0 +1,14 @@
+test_addition (__main__.TestPos.test_addition) ... ok
+test_egalite (__main__.TestPos.test_egalite) ... ok
+test_est_dans_liste_positions (__main__.TestPos.test_est_dans_liste_positions) ... ok
+test_est_hors_plateau (__main__.TestPos.test_est_hors_plateau) ... ok
+test_get_emplacement (__main__.TestPos.test_get_emplacement) ... ok
+test_indice (__main__.TestPos.test_indice) ... ok
+test_initialisation_avec_chaine (__main__.TestPos.test_initialisation_avec_chaine) ... ok
+test_initialisation_avec_numeriques (__main__.TestPos.test_initialisation_avec_numeriques) ... ok
+test_representation_chaine (__main__.TestPos.test_representation_chaine) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.000s
+
+OK

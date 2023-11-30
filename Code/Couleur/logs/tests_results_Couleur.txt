@@ -1,0 +1,7 @@
+test_inversion_couleur (__main__.TestCouleur.test_inversion_couleur) ... ok
+test_vers_chaine (__main__.TestCouleur.test_vers_chaine) ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.000s
+
+OK

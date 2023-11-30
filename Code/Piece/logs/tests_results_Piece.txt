@@ -1,0 +1,7 @@
+test_attributs_piece (__main__.TestPiece.test_attributs_piece) ... ok
+test_initialisation_piece (__main__.TestPiece.test_initialisation_piece) ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.000s
+
+OK

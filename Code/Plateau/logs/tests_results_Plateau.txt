@@ -1,0 +1,17 @@
+test_ajoute_et_bouge_piece (__main__.TestPlateau.test_ajoute_et_bouge_piece) ... ok
+test_ajoute_piece_positions_variees (__main__.TestPlateau.test_ajoute_piece_positions_variees) ... ok
+test_ajoute_piece_sur_case_occupee (__main__.TestPlateau.test_ajoute_piece_sur_case_occupee) ... ok
+test_bouge_piece_positions_variees (__main__.TestPlateau.test_bouge_piece_positions_variees) ... ok
+test_bouge_piece_sur_piece_existante (__main__.TestPlateau.test_bouge_piece_sur_piece_existante) ... ok
+test_case_vide_apres_mouvement (__main__.TestPlateau.test_case_vide_apres_mouvement) ... ok
+test_est_case_occupe (__main__.TestPlateau.test_est_case_occupe) ... ok
+test_init_partie (__main__.TestPlateau.test_init_partie) ... ok
+test_initialisation_plateau (__main__.TestPlateau.test_initialisation_plateau) ... ok
+test_liste_piece (__main__.TestPlateau.test_liste_piece) ... ok
+test_liste_piece_apres_mouvements (__main__.TestPlateau.test_liste_piece_apres_mouvements) ... ok
+test_piece_a_position (__main__.TestPlateau.test_piece_a_position) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 0.001s
+
+OK

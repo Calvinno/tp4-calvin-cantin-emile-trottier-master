@@ -1,0 +1,8 @@
+test_case_est_occupe (__main__.TestCasePlateau.test_case_est_occupe) ... ok
+test_initialisation_case_avec_piece (__main__.TestCasePlateau.test_initialisation_case_avec_piece) ... ok
+test_initialisation_case_vide (__main__.TestCasePlateau.test_initialisation_case_vide) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.000s
+
+OK

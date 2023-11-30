@@ -1,0 +1,11 @@
+test_vers_chaine_cavalier (__main__.TestTypePiece.test_vers_chaine_cavalier) ... ok
+test_vers_chaine_dame (__main__.TestTypePiece.test_vers_chaine_dame) ... ok
+test_vers_chaine_fou (__main__.TestTypePiece.test_vers_chaine_fou) ... ok
+test_vers_chaine_pion (__main__.TestTypePiece.test_vers_chaine_pion) ... ok
+test_vers_chaine_roi (__main__.TestTypePiece.test_vers_chaine_roi) ... ok
+test_vers_chaine_tour (__main__.TestTypePiece.test_vers_chaine_tour) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.000s
+
+OK
